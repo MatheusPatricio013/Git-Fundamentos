@@ -1,1 +1,3 @@
-mudado pela branch A
+
+exemplo branchB
+mudado pela branchA
