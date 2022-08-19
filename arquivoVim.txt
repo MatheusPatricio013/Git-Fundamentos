@@ -1,2 +1,3 @@
-exemplo branch2
 
+exemplo branchB
+mudado pela branchA
