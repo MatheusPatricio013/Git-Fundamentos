@@ -1,7 +1,1 @@
-
-
-exemplo branchB
-mudado pela branchA
-
-mudado pela branch B
-
+pronto
